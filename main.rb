@@ -1,5 +1,3 @@
-#!/usr/bin/env ruby
-
 require './app'
 def create_student(app)
   puts 'Let\'s create a student!'
