@@ -24,15 +24,12 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
-### Setup
+### How to Run 
 
-### Install
-
-### Usage
-
-### Run tests
+#!/usr/bin/env ruby
+- Put the line above at the top of main.rb file
+- Grant access permission to main.rb (run chmod 755 main.rb)
 
 ### Deployment
 
